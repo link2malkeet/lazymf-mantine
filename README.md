@@ -1,4 +1,4 @@
-# Lazy loading Module Federation remote entries and components
+# Lazy loading Module Federation remote entries and components with Mantine.dev
 
 This project implements a dynamic module loader for Webpack 5 Module Federation, allowing for efficient loading and caching of remote modules in a React application.
 
