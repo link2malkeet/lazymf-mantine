@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "esnext",                        // Latest JS features
+    "module": "esnext",                        // Use ES module syntax
+    "jsx": "react-jsx",                        // Use React's JSX
+    "strict": true,                            // Enable strict type-checking
+    "moduleResolution": "node",                // Module resolution strategy
+    "esModuleInterop": true,                   // Allow default imports from modules
+    "skipLibCheck": true,                      // Skip library checking for faster builds
+    "forceConsistentCasingInFileNames": true   // Ensure file name consistency
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
